@@ -18,3 +18,6 @@ HW6 | 32 | 5 | *4205.46 msec* | [folder](/fondamenti-di-programmazione/HW6-req)
 HW8 | 32 | 9 | *1035.57 msec* | [folder](/fondamenti-di-programmazione/HW8-req)
 ## 2° Semester
 ### Calcolo Integrale
+- [Esonero 1] (/calcolo-integrale/esonero1)
+- [Esonero 2] (/calcolo-integrale/esonero2)
+- [Esonero 3] (/calcolo-integrale/esonero3)
