@@ -10,7 +10,7 @@
 # 1° Year
 ## 1° Semester
 ### Fondamenti di prgrammazione
-Homework | Vote (max. 30 + 4 bonus) | CC | Execution Time | folder
+Homework | Vote (max. 30 + 4 bonus) | CC | Execution Time | link
 --- | --- | --- | --- | ---
 HW2 | 32 | 5 | *16229.6 msec* | [folder](/fondamenti-di-programmazione/HW2-req)
 HW4 | 34 | 7 | *306.228 msec* | [folder](/fondamenti-di-programmazione/HW4-req)
