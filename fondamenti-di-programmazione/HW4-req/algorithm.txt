@@ -1,0 +1,20 @@
+Senza ripetere il testo già descritto dal prof ecco alcuni consigli:
+- per aprie il file utilizza readlines al posto di .read().splitlines(), la funzione split() rimuove direttamente gli \n se combinata con readlines().
+- Nel testo non c'è scritto ma se non lo sai hai bisogno di rimuovere tutti i caratteri non alphanumerici come '/(*,"" -> la funzione isalpha ti potra tornare utile
+- Nel testo non c'è scritto ma hai anche bisogno di separare la stringa da caratteri nonalpha ka'sa non è la parola "kasa" ma bensi due parole "ka" e "sa". un modo per farlo è sostituire
+tutti i caratteri non alpha con uno spazio e successivamente splittarli.
+- la funzione pronouncing.stresses(pronouncing.phones_for_word(parola)) ti può tornare 1,2 -> senza complicarti la vita sostituisci 2 con 0 e appendi i valori in una lista (ricordandoti di aggiungere uno 0 aggiuntivo (spazio))
+- Ricordati di eliminare gli array vuoti nel caso utilizzassi map() per iterare sulle parole del testo splittate per fare la matrice, la funzione filter ti può ritornare utile
+- probabilmente banale ma ricorda che sulla funzione sync se m_a == 0 o m_b == 0 devi ritornare 0, senno riceverai un ZeroDivisionError e non passi un test.
+- Come probabilmente hai letto devi aggiungere gli 0 affinche tutte le stringhe abbiano la stessa lunghezza, un metodo che si può utilizzare è appendere sulla lista tanti zero quanto la differenza della lista con len() maggiore con la lista che stai iterando
+- Ricorda di utilizzare l'encoding="utf-8" sull'opening del file o non ti funzionerà il programma.
+- Quando vai a scrivere sul file ricorda che ad ogni riga devi aggiungere un "\n"
+- Per quanto riguarda c(a|b) e c(b|a) c'è una spiegazione sul forum disegnata che mi è tornata utile se cerchi bene la domanda.
+
+
+Consigli per migliorare il codice:
+
+- Evita di fare un ciclo che richiama una funzione con argomenti, passare argomenti costa tante risorse.
+- Utilizzare map, filter, list comprehension al posto di un ciclo for.
+- suddividi le funzione in sotto funzioni diminuendo la complessità e aumentato di poco l'efficienza (rispetta però il primo punto)
+- 

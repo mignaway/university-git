@@ -1,0 +1,22 @@
+Abbiamo delle liste di lunghezza non definita.
+Dato ciò abbiamo bisogno di iterare la lista matches in base alla sua lunghezza.
+Successivamente dobbiamo iterare una seconda volta in modo tale da creare tutte le coppie tra elementi della lista però questa volta bisogna escludere l'elemento della prima iterazione cosi da non controllare due elemnti uguali.
+Ancora una volta però abbiamo bisogno di controllare le lettere singole di ogni elemento stringa, quindi andiamo ad iterare ancora una volta cosi ottenendo due variabili con il 1° carattere del primo elemento e il 1° carattere del secondo elemento.
+Da questo punto abbiamo bisogno di controllare:
+- Se la differenza fra il 1° carattere del primo elemento e il 1° carattere del secondo elemento è inferiore o
+  uguale al parametro k allora prendiamo quello che ha il valore più alto, ed assegnamo un punto alla "stringa di partenza"
+- Se la differenza fra il 1° carattere del primo elemento e il 1° carattere del secondo elemnto è maggiore al parametro k allora prendiamo quello che ha il valore più basso, ed assegnamo un punto
+- Se invece sono uguali non fare nulla e continuare l'iterazione successiva
+Alla fine della seconda iterazione dobbiamo stabilire tra il primo elemento ed il secondo chi ha vinto:
+Al termine dell'assegnazione, vince chi ha ottenuto più punti. In caso
+di pareggio, vince il giocatore che ha generato che ha la somma di ogni singolo carattere inferiore.
+In caso di ulteriore pareggio, il punto è assegnato al giocatore con la prima sequenza in ordine
+lessicografico, quindi quale tra le due viene prima in questo ordine.
+Non può capitare che due giocatori generino esattamente la stessa sequenza di valori, quindi non c'è bisogno di eseguire ulteriori condizioni.
+
+Alla fine avremo questa sequenza di punteggi che va ordinata in base al punteggio in ordine ascendente (dal più grande al più piccolo),
+se per esempio abbiamo:
+    elemento 1: 4 punti
+    elemento 2: 5 punti
+    elemento 3: 6 punti
+    avremo la lista ordinata così -> [3,2,1]

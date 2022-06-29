@@ -1,0 +1,15 @@
+Ecco alcuni consigli:
+
+- Dato che l'input è un file txt dove le linee del file sono le stesse linee dei palazzi, e le linee contengono numeri separati da virgole, sapendo che ogni palazzo ha 5 dati avremo bisogno di separare le linee ogni 5 volte, si può utilizzare una classe o una matrice.
+- Il testo se non capito al volo confonde un pò, lasciate stare i giardini e le strade, quello che vi interessa è che avete i dati dei palazzi, la spaziatura e che questi palazzi vanno centrati verticalemente nella linea e avere uno spazio equo tra le linee.
+- Per disegnare i palazzi c'è bisogno, dato che stiamo parlando di una matrice, le coordinate di ogni punto ed assegnare a quelle cordinate il valore rgb del palazzo tenendo conto che le cordinate si basano da:
+    
+    - La spaziatura (padding) sia verticalmente che orizzontalmente dell'immagine;
+    - La spaziatura orizzontale della linea tra i palazzi -> calcolare lo spazio rimanente dal padding, sottrarlo alla larghezza dei palazzi così da ottenere lo spazio da inserire tra i palazzi diviso dal numero dei palazzi presenti nella linea
+    - La spaziatura in generale va moltiplicata per il numero dei palazzi per intenderci meglio avremo che per scrivere il secondo palazzo ci sarà la necessita di fare: spaziatura+larghezza del primo palazzo+padding e così avremo le cordinate del secondo palazzo, in poche parole tenere conto di tutti i precendenti elementi
+    - La spaziatura verticale che come quella soprastante sarà spaziatura + altezza primo palazzo + padding verticale ed ottenere così verticalmente il secondo palazzo
+    (spero di essere d'aiuto per farti capire, è un pò complicato da spiegare)
+
+- il minimo valore di padding tra i palazzi orizzontali è la spaziatura per i palazzi con la somma maggiore della larghezza
+- Per trovare la larghezza del file basta sommare (e trovare il massimo) la spaziatura + la somma degli elementi dei palazzi con la somma maggiore della larghezza + il padding interno ad ogni palazzo.
+- Per trovare l'altezza del file sempre la stessa cosa, sommare i padding sia sopra che sotto (sono uguali) e trovare il massimo tra la somma dell'altezza dei palazzi + il padding verticale interno ad ogni linea.
