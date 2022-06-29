@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">university-git</h1>
-<p align="center">Backup of university notes and exercises </p>
+<p align="center">Backup of useful university notes and exercises </p>
 
 # 1° Year
 ## 1° Semester
