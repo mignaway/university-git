@@ -5,13 +5,12 @@
 </p>
 
 <h1 align="center">university-git</h1>
-<p align="center">Backup of university notes and exercises </p>
+<p align="center">Backup of useful university notes and exercises </p>
 
 # 1° Year
 ## 1° Semester
 ### Fondamenti di prgrammazione
-Voto finale: **30 e lode**
-Homework | Vote (max. 30 + 4 bonus) | CC | Execution Time | folder
+Homework | Vote (max. 30 + 4 bonus) | CC | Execution Time | link
 --- | --- | --- | --- | ---
 HW2 | 32 | 5 | *16229.6 msec* | [folder](/fondamenti-di-programmazione/HW2-req)
 HW4 | 34 | 7 | *306.228 msec* | [folder](/fondamenti-di-programmazione/HW4-req)
