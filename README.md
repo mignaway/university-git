@@ -9,16 +9,14 @@
 
 <p align="center">Appunti e file sono di natura personale, ho deciso di caricare qui essi in maniera **gratuita** e con libero accesso. Premetto che gli appunti potrebbero avere degli errori di distrazione, nel caso ciò si manifestasse invito a creare un issue in questa libreria specificando l'errore in modo da correggerlo e migliorare poi l'esperienza dei nostri colleghi studenti.</p>
 
-# 1° Year
-## 1° Semester
-### Fondamenti di prgrammazione
-Voto finale: ```30 e lode```
-Homework | Vote (max. 30 + 4 bonus) | CC | Execution Time | link
---- | --- | --- | --- | ---
-HW2 | 32 | 5 | *16229.6 msec* | [folder](/fondamenti-di-programmazione/HW2-req)
-HW4 | 34 | 7 | *306.228 msec* | [folder](/fondamenti-di-programmazione/HW4-req)
-HW6 | 32 | 5 | *4205.46 msec* | [folder](/fondamenti-di-programmazione/HW6-req)
-HW8 | 32 | 9 | *1035.57 msec* | [folder](/fondamenti-di-programmazione/HW8-req)
+### 1° Year
+Corso | Contenuto | Link
+--- | --- | ---
+Fondamenti di programmazione | Homeworks obbligatori | [folder](/fondamenti-di-programmazione)
+Metodi Matematici | Appunti | [pdf](/metodi-matematici/appunti.pdf)
+Sistemi digitali | Appunti | in corso
+Calcolo integrale | File esoneri e esame | [folder](/calcolo-integrale)
+
 ## 2° Semester
 ### Calcolo Integrale
 - [Esonero 1](/calcolo-integrale/esonero1)
