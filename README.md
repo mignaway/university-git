@@ -26,6 +26,6 @@ Corso | Contenuto | Link | Status
 Fondamenti di programmazione | Homeworks obbligatori | [folder](/fondamenti-di-programmazione) | :heavy_check_mark:
 Metodi Matematici | Appunti | [pdf](/metodi-matematici/appunti.pdf) | :warning:
 Sistemi digitali | Appunti | | :x:
-Calcolo integrale | File di esoneri ed esami | [folder](/calcolo-integrale) :heavy_check_mark:
+Calcolo integrale | File di esoneri ed esami | [folder](/calcolo-integrale) | :heavy_check_mark:
 
 </div>
