@@ -12,11 +12,15 @@
 <h3 align="center">Contenuto</h3>
 <div align="center">
 
-Corso | Contenuto | Link
---- | --- | ---
-Fondamenti di programmazione | Homeworks obbligatori | [folder](/fondamenti-di-programmazione)
-Metodi Matematici | Appunti | [pdf](/metodi-matematici/appunti.pdf)
-Sistemi digitali | Appunti | in corso
+:heavy_check_mark: → Completi \
+:warning: → Appunti presenti ma modifiche in corso \
+:x: → In corso \
+
+Corso | Contenuto | Link | Status
+--- | --- | --- | ---
+Fondamenti di programmazione | Homeworks obbligatori | [folder](/fondamenti-di-programmazione) | completi
+Metodi Matematici | Appunti | [pdf](/metodi-matematici/appunti.pdf) | file 
+Sistemi digitali | Appunti | | in corso
 Calcolo integrale | File esoneri e esame | [folder](/calcolo-integrale)
 
 </div>
