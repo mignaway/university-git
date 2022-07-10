@@ -9,7 +9,9 @@
 
 <p align="center">Appunti e file sono di natura personale, ho deciso di caricare qui essi in maniera **gratuita** e con libero accesso. Premetto che gli appunti potrebbero avere degli errori di distrazione, nel caso ciò si manifestasse invito a creare un issue in questa libreria specificando l'errore in modo da correggerlo e migliorare poi l'esperienza dei nostri colleghi studenti.</p>
 
-### 1° Year
+<h3 align="center">university-git</h3>
+<div align="center">
+
 Corso | Contenuto | Link
 --- | --- | ---
 Fondamenti di programmazione | Homeworks obbligatori | [folder](/fondamenti-di-programmazione)
@@ -17,8 +19,4 @@ Metodi Matematici | Appunti | [pdf](/metodi-matematici/appunti.pdf)
 Sistemi digitali | Appunti | in corso
 Calcolo integrale | File esoneri e esame | [folder](/calcolo-integrale)
 
-## 2° Semester
-### Calcolo Integrale
-- [Esonero 1](/calcolo-integrale/esonero1)
-- [Esonero 2](/calcolo-integrale/esonero2)
-- [Esonero 3](/calcolo-integrale/esonero3)
+</div>
