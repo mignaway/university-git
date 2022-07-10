@@ -9,7 +9,7 @@
 
 __________
 
-<p align="center">Appunti e file sono di natura personale, ho deciso di caricare qui essi in maniera gratuita e di libero accesso. Premetto che gli appunti potrebbero avere degli errori di distrazione, nel caso ciò si manifestasse invito a creare un issue in questa libreria specificando l'errore in modo da correggerlo e migliorare poi l'esperienza dei nostri colleghi studenti.</p>
+<p align="center">Appunti e file sono di natura personale, ho deciso di caricare qui essi in maniera gratuita e di libero accesso. Premetto che gli appunti potrebbero avere degli errori di distrazione, nel caso ciò si manifestasse invito a creare un issue in questa repo specificando l'errore in modo da correggerlo e migliorare poi l'esperienza dei nostri colleghi studenti.</p>
 <p align="center">In oltre vorrei precisare che il linguaggio scritto negli appunti è di tipo basilare e in formale, tutto ciò è per semplificare lo studio della materia evitando di scrivere appunti complessi e poco interpretabili.</p>
 
 __________
