@@ -6,6 +6,7 @@
 
 <h1 align="center">university-git</h1>
 <p align="center">University notes and exercises for my computer science degree</p>
+
 Appunti e file sono di natura personale, ho deciso di caricare qui essi in maniera **gratuita** e con libero accesso. Premetto che gli appunti potrebbero avere degli errori di distrazione, nel caso ciò si manifestasse invito a creare un issue in questa libreria specificando l'errore in modo da correggerlo e migliorare poi l'esperienza dei nostri colleghi studenti.
 
 # 1° Year
